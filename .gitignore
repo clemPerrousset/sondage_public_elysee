@@ -1,0 +1,8 @@
+/target
+**/*.pdb
+**/*.rlib
+
+# Optionnel mais utile
+/.idea
+/.vscode
+.DS_Store
